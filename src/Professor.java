@@ -3,7 +3,7 @@ public class Professor extends Usuario {
     Professor(String nome, String curso) {
         super (nome, curso);
     }
-    public void criarTurma(){ kkkkkkkkkkkk
+    public void criarTurma(){
 
     }
     public void matricularAlunos(){
